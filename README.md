@@ -1,8 +1,8 @@
 ## Dashboard - New Car Sales in Indonesia
 
 ### Table of Content
-- [A.Project Overview](#A.Project-Overview)
-- [B.Dashboard Picture](#B.Dashboard-Picture)
+- [Project Overview](#A.Project-Overview)
+- [Dashboard Picture](#B.Dashboard-Picture)
 
 
 #### A.Project Overview
