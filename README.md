@@ -45,6 +45,7 @@ a. Trend of New Car Sales and Loans
 ![github dash car1](https://github.com/user-attachments/assets/f7752d5c-351c-482e-b661-629c5f7cd778)
 
 b. Top Car Sales by Brand 
+![github dash car 2](https://github.com/user-attachments/assets/ead39d51-6feb-487b-9cae-e241d287079e)
 
 c. Most Motor Vehicles Type in Indonesia
 ![github dash car 3](https://github.com/user-attachments/assets/874bc35b-c4e9-43f5-87e0-f597ea353a18)
